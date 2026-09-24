@@ -1,26 +1,25 @@
-# Tahaweb — Personal Portfolio
+# Tahaweb — Previous Personal Portfolio
 
-A modern and responsive personal portfolio website designed and developed from scratch to showcase my work, front-end skills, and selected projects.
+A modern and responsive personal portfolio website developed from scratch as an earlier version of my personal website.
 
 ## About the Project
 
-Tahaweb is my personal portfolio website, built from scratch with a focus on modern visual design, responsive layouts, smooth interactions, and optimized performance.
+Tahaweb is a previous version of my personal portfolio, created to introduce myself, showcase my projects, and present my front-end development work.
 
-The website was designed to provide a clear and engaging way to introduce myself, present my projects, and showcase my approach to front-end development.
+The website was designed and developed from scratch with a focus on clean visual design, responsive layouts, smooth interactions, and attention to UI details.
 
-Instead of relying on heavy frameworks, the project was developed with lightweight web technologies, giving me more control over the structure, styling, animations, and overall performance of the website.
+This project represents an earlier stage of my development journey and reflects my approach to building personal portfolio websites at that time.
 
 ## Key Features
 
 * Modern and minimal portfolio design
-* Fully responsive layout for desktop, tablet, and mobile
+* Responsive layout for desktop and mobile devices
 * Custom UI implementation from scratch
 * Smooth CSS animations and transitions
 * Interactive elements and dynamic behaviors
-* Optimized structure for better loading performance
 * Dedicated sections for personal information and projects
-* Mobile-friendly navigation and layouts
-* No heavy CSS framework dependency
+* Mobile-friendly layouts
+* Lightweight implementation without heavy CSS frameworks
 
 ## Technologies
 
@@ -32,19 +31,23 @@ Instead of relying on heavy frameworks, the project was developed with lightweig
 
 ### Home Page — Desktop
 
-<img src="screenshots/desktop-home.png" alt="Tahaweb Portfolio Desktop">
+<img src="127.0.0.1_5500_index.htm.png" alt="Tahaweb Home Page Desktop">
 
 ### Home Page — Mobile
 
-<img src="screenshots/mobile-home.png" alt="Tahaweb Portfolio Mobile">
+<img src="127.0.0.1_5500_index.htm(iPhone 14 Pro Max).png" alt="Tahaweb Home Page Mobile">
 
 ### About Me — Desktop
 
-<img src="screenshots/desktop-about.png" alt="Tahaweb About Me Desktop">
+<img src="127.0.0.1_5500_About-me.htm (1).png" alt="Tahaweb About Me Desktop">
 
 ### About Me — Mobile
 
-<img src="screenshots/mobile-about.png" alt="Tahaweb About Me Mobile">
+<img src="127.0.0.1_5500_About-me.htm(iPhone 14 Pro Max).png" alt="Tahaweb About Me Mobile">
+
+### Additional Preview
+
+<img src="Untitled-1.png" alt="Tahaweb Portfolio Preview">
 
 ---
 
@@ -52,23 +55,22 @@ Instead of relying on heavy frameworks, the project was developed with lightweig
 
 ## درباره پروژه
 
-Tahaweb وب‌سایت پورتفولیوی شخصی من است که با هدف معرفی من، نمایش پروژه‌ها و ارائه نمونه‌ای از توانایی‌ها و رویکرد من در توسعه فرانت‌اند طراحی و از صفر پیاده‌سازی شده است.
+Tahaweb نسخه قبلی وب‌سایت شخصی و پورتفولیوی من است که با هدف معرفی خودم، نمایش پروژه‌ها و ارائه بخشی از فعالیت‌های من در زمینه توسعه فرانت‌اند طراحی و از صفر پیاده‌سازی شده است.
 
-در طراحی این وب‌سایت تلاش کردم یک رابط کاربری مدرن و مینیمال ایجاد کنم که در کنار ظاهر مناسب، تجربه کاربری روان و عملکرد خوبی در دستگاه‌های مختلف داشته باشد.
+در طراحی و توسعه این وب‌سایت تلاش کردم یک رابط کاربری مدرن و مینیمال ایجاد کنم و در کنار ظاهر بصری، روی ریسپانسیو بودن، تعاملات، انیمیشن‌ها و جزئیات رابط کاربری نیز تمرکز داشته باشم.
 
-ساختار پروژه بدون وابستگی به فریم‌ورک‌های سنگین توسعه داده شده و کنترل بیشتری روی ساختار HTML، استایل‌ها، انیمیشن‌ها، تعاملات و عملکرد سایت در اختیارم قرار داده است.
+این پروژه مربوط به یکی از مراحل قبلی مسیر توسعه و یادگیری من است و بخشی از روند پیشرفت من در طراحی و توسعه وب‌سایت‌های شخصی را نشان می‌دهد.
 
 ## ویژگی‌های کلیدی
 
 * طراحی مدرن و مینیمال
-* کاملاً ریسپانسیو برای دسکتاپ، تبلت و موبایل
+* طراحی ریسپانسیو برای دسکتاپ و موبایل
 * پیاده‌سازی رابط کاربری از صفر
 * استفاده از انیمیشن‌ها و ترنزیشن‌های CSS
-* ایجاد تعاملات و رفتارهای پویا با jQuery
-* ساختار بهینه برای عملکرد و سرعت مناسب
-* بخش‌های اختصاصی برای معرفی و نمایش پروژه‌ها
-* طراحی مناسب برای نمایش در دستگاه‌های مختلف
-* بدون وابستگی به فریم‌ورک‌های سنگین
+* ایجاد عناصر تعاملی و رفتارهای پویا
+* دارای بخش‌های اختصاصی برای معرفی شخصی و نمایش پروژه‌ها
+* طراحی مناسب برای نمایش در موبایل
+* پیاده‌سازی سبک و بدون وابستگی به فریم‌ورک‌های سنگین CSS
 
 ## تکنولوژی‌های استفاده‌شده
 
@@ -80,22 +82,20 @@ Tahaweb وب‌سایت پورتفولیوی شخصی من است که با هد
 
 ### صفحه اصلی — دسکتاپ
 
-<img src="screenshots/desktop-home.png" alt="صفحه اصلی Tahaweb در دسکتاپ">
+<img src="127.0.0.1_5500_index.htm.png" alt="صفحه اصلی Tahaweb در دسکتاپ">
 
 ### صفحه اصلی — موبایل
 
-<img src="screenshots/mobile-home.png" alt="صفحه اصلی Tahaweb در موبایل">
+<img src="127.0.0.1_5500_index.htm(iPhone 14 Pro Max).png" alt="صفحه اصلی Tahaweb در موبایل">
 
-### درباره من — دسکتاپ
+### صفحه درباره من — دسکتاپ
 
-<img src="screenshots/desktop-about.png" alt="صفحه درباره من Tahaweb در دسکتاپ">
+<img src="127.0.0.1_5500_About-me.htm (1).png" alt="صفحه درباره من Tahaweb در دسکتاپ">
 
-### درباره من — موبایل
+### صفحه درباره من — موبایل
 
-<img src="screenshots/mobile-about.png" alt="صفحه درباره من Tahaweb در موبایل">
+<img src="127.0.0.1_5500_About-me.htm(iPhone 14 Pro Max).png" alt="صفحه درباره من Tahaweb در موبایل">
 
-## هدف از ساخت
+### تصویر تکمیلی پروژه
 
-هدف اصلی از ساخت Tahaweb، ایجاد یک پورتفولیوی شخصی بود که علاوه بر معرفی من و پروژه‌هایم، رویکرد من در طراحی و توسعه فرانت‌اند را نیز نشان دهد.
-
-در طول توسعه پروژه، تمرکز اصلی من روی طراحی ریسپانسیو، ساختار منظم کد، عملکرد مناسب، هماهنگی بصری بخش‌های مختلف و توجه به جزئیات رابط کاربری بوده است.
+<img src="Untitled-1.png" alt="پیش‌نمایش پروژه Tahaweb">
